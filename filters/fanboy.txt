@@ -1,0 +1,6 @@
+##.ad
+##.ads
+##.advertisement
+##.ad-container
+##[id*=ad]
+##[class*=ad]
