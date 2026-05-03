@@ -1,0 +1,7 @@
+||doubleclick.net^
+||googlesyndication.com^
+||adservice.google.com^
+||pagead2.googlesyndication.com^
+||ads.youtube.com^
+||adserver.*^
+||advertising.com^
